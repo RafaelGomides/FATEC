@@ -12,7 +12,7 @@ inicio
 escreva("Saber a Tabuada de: ")
 leia (produto)
 
-para cont de 0 ate 10 passo 1 faca
+para cont de 0 ate 11 passo 1 faca
      escreval(produto," x",cont," =",produto*cont)
 fimpara
 fimalgoritmo

@@ -1,0 +1,258 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"num2"
+			],
+			[
+				"nu",
+				"num1"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"va",
+				"value\tAttr"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"btn",
+				"btnLogin"
+			],
+			[
+				"ht",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"tb",
+				"table\t<table>"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 221.0,
+		"last_filter": "Mater",
+		"selected_items":
+		[
+			[
+				"Mater",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 423.0
+	},
+	"console":
+	{
+		"height": 306.0,
+		"history":
+		[
+			"ls",
+			"terminal"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/rafael/Documents/Projects/FATEC/LP/Exercicios/C/exercicio1.cpp",
+		"/home/rafael/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/rafael/.config/sublime-text-3/Packages/Material Theme/Preferences.sublime-settings",
+		"/home/rafael/Documents/Projects/FATEC/LP/Exercicios/C/exercicio2.cpp",
+		"/opt/lampp/htdocs/Nexus/www/nexus/com/br/feed.php",
+		"/opt/lampp/htdocs/Nexus/www/nexus/com/br/home.php",
+		"/opt/lampp/htdocs/Nexus/www/nexus/com/br/interagir.php",
+		"/opt/lampp/htdocs/Nexus/www/nexus/com/br/home_feed.php",
+		"/opt/lampp/htdocs/Nexus/www/nexus/com/br/config.php",
+		"/opt/lampp/htdocs/Nexus/www/nexus/com/br/index.php",
+		"/opt/lampp/htdocs/dashboard/index.html",
+		"/opt/lampp/htdocs/index.php",
+		"/opt/lampp/htdocs/Nexus/www/index.php",
+		"/opt/lampp/htdocs/Nexus/www/css/bootstrap.css",
+		"/opt/lampp/htdocs/Nexus/www/home_feed.php",
+		"/opt/lampp/htdocs/Nexus/www/home.php",
+		"/opt/lampp/htdocs/Nexus/www/feed/home_feed.php",
+		"/opt/lampp/htdocs/Nexus/www/css/bootstrap.min.css",
+		"/opt/lampp/htdocs/Nexus/www/login/singin.php",
+		"/opt/lampp/htdocs/Nexus/www/tl_main.php",
+		"/opt/lampp/htdocs/Nexus/www/js/bootstrap.js",
+		"/opt/lampp/htdocs/Nexus/www/js/bootstrap.min.js",
+		"/opt/lampp/htdocs/Nexus/www/feed/feed.php",
+		"/opt/lampp/htdocs/Nexus/www/css/bootstrap-responsive.min.css",
+		"/opt/lampp/htdocs/Nexus/www/css/bootstrap-responsive.css",
+		"/opt/lampp/Nexus/www/index.php",
+		"/home/rafael/Documents/Projects/Nexus/www/index.html",
+		"/home/rafael/Templates/PHP File.php",
+		"/home/rafael/Documents/Projects/741_teste/bootstrap/HTML File.html",
+		"/home/rafael/Documents/Projects/741_teste/bootstrap/js/bootstrap.js",
+		"/home/rafael/Templates/Java Class File.java",
+		"/home/rafael/Templates/Java Main File.java",
+		"/home/rafael/Templates/Text File.txt",
+		"/home/rafael/Templates/Doc File",
+		"/home/rafael/Documents/Projects/741_teste/bootstrap/index.html",
+		"/home/rafael/Templates/blank.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "fatec.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
