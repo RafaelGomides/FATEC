@@ -6,13 +6,14 @@ algoritmo "Exercicio 1"
 var
 
 numero1:inteiro
-numero2:inteiro
+numero2, soma:inteiro
 
 inicio
 // Seção de Comandos
 
 leia (numero1)
 leia (numero2)
-escreva(numero1+numero2)
+soma <- numero1+numero2
+escreva(soma)
 
 fimalgoritmo
